@@ -6,7 +6,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Save the Center", "Community", 14500, "5/23/19", "6/30/19");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Hungry for Houston", "Homeless", 2000, "1/5/20", "1/31/20");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Wounded Warriors", "Military", 250, "3/2/19", "5/15/20");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Musical Instruments", "Developmental Disabilities", 315, "7/1/17", "7/31/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Voice of the ", "Developmental Disabilities", 315, "7/1/17", "7/31/17");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("PTSD Counseling", "Military", 80, "7/1/17", "7/31/17");
 
 INSERT INTO users (name, age) VALUES ("Bailee Williams", 36);
