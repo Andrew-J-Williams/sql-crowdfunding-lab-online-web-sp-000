@@ -1,3 +1,3 @@
 CREATE TALBLE project (
-
+  id INTEGER PRIMARY KEY
 )
