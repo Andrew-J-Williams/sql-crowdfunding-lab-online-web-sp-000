@@ -9,7 +9,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Voice of the Silent", "Human Trafficking", 5000, "9/14/19", "10/02/19");
 
 INSERT INTO users (name, age) VALUES ("Bailee Williams", 36);
-INSERT INTO users (name, age) VALUES ("Jacob Zeltman", 27);
+INSERT INTO users (name, age) VALUES ("Jacob Zeltman", 23);
 INSERT INTO users (name, age) VALUES ("Claire Dorn", 24);
 INSERT INTO users (name, age) VALUES ("Patrick Dorn", 51);
 INSERT INTO users (name, age) VALUES ("Abby Dorn", 50);
