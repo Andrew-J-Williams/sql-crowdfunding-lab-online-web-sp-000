@@ -2,7 +2,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("ASPCA Dog Run", "Animals", 5000, "2/12/20", "3/1/20");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Race for the Cure", "Cancer Treatment", 10000, "8/3/19", "8/6/19");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Operation Christmas", "Children", 75, "11/29/19", "12/15/20");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Love ", "Seniors", 100, "6/1/17", "6/30/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("", "Seniors", 100, "6/1/17", "6/30/17");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Counseling Sessions", "Domestic Violence", 65, "7/1/17", "7/31/17");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Wig Making", "Cancer Survivors", 1000, "7/1/17", "7/31/17");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Dog Harnesses", "Blind & Deaf", 500, "7/1/17", "7/31/17");
