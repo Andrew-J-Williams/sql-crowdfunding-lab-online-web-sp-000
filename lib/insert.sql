@@ -9,7 +9,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Musical Instruments", "Developmental Disabilities", 315, "7/1/17", "7/31/17");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("PTSD Counseling", "Military", 80, "7/1/17", "7/31/17");
 
-INSERT INTO users (name, age) VALUES ("Bailee Williams", 26);
+INSERT INTO users (name, age) VALUES ("Bailee Williams", 36);
 INSERT INTO users (name, age) VALUES ("Jacob Dorn", 27);
 INSERT INTO users (name, age) VALUES ("Claire Dorn", 24);
 INSERT INTO users (name, age) VALUES ("Patrick Dorn", 51);
