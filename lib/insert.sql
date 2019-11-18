@@ -19,7 +19,7 @@ INSERT INTO users (name, age) VALUES ("Taylor Reid", 22);
 INSERT INTO users (name, age) VALUES ("Carie Anderson", 56);
 INSERT INTO users (name, age) VALUES ("Janice Gruesbeck", 65);
 INSERT INTO users (name, age) VALUES ("Mark Wagner", 44);
-INSERT INTO users (name, age) VALUES ("", 27);
+INSERT INTO users (name, age) VALUES ("George Kelley", 27);
 INSERT INTO users (name, age) VALUES ("Jason Banning", 27);
 INSERT INTO users (name, age) VALUES ("Morgan Johnson", 26);
 INSERT INTO users (name, age) VALUES ("Casey Ulrich", 27);
