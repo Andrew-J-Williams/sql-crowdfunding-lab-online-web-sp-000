@@ -26,7 +26,7 @@ INSERT INTO users (name, age) VALUES ("Michelle Munoz", 56);
 INSERT INTO users (name, age) VALUES ("Amanda Mann", 49);
 INSERT INTO users (name, age) VALUES ("Steven Phillips", 21);
 INSERT INTO users (name, age) VALUES ("Ryan Snow", 24);
-INSERT INTO users (name, age) VALUES ("Brady Ulrich", 19);
+INSERT INTO users (name, age) VALUES ("Daniel", 19);
 INSERT INTO users (name, age) VALUES ("Jaren Ulrich", 22);
 
 INSERT INTO pledges (amount, user_id, project_id) VALUES (35, 1, 2);
