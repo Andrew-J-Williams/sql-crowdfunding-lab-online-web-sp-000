@@ -24,7 +24,7 @@ INSERT INTO users (name, age) VALUES ("Daniel Elrich", 32);
 INSERT INTO users (name, age) VALUES ("Alex Galvan", 25);
 INSERT INTO users (name, age) VALUES ("Michelle Munoz", 56);
 INSERT INTO users (name, age) VALUES ("Amanda Mann", 49);
-INSERT INTO users (name, age) VALUES ("Kyle Ulrich", 31);
+INSERT INTO users (name, age) VALUES ("", 31);
 INSERT INTO users (name, age) VALUES ("Sean Pinnow", 32);
 INSERT INTO users (name, age) VALUES ("Brady Ulrich", 19);
 INSERT INTO users (name, age) VALUES ("Jaren Ulrich", 22);
