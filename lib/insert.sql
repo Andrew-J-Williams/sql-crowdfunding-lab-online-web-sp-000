@@ -17,7 +17,7 @@ INSERT INTO users (name, age) VALUES ("Jessica Bodine", 53);
 INSERT INTO users (name, age) VALUES ("Michael Weirsma", 33);
 INSERT INTO users (name, age) VALUES ("Taylor Reid", 22);
 INSERT INTO users (name, age) VALUES ("Carie Anderson", 56);
-INSERT INTO users (name, age) VALUES ("Janice Gruesbeck", 84);
+INSERT INTO users (name, age) VALUES ("Janice Gruesbeck", 65);
 INSERT INTO users (name, age) VALUES ("Alisha Bowman", 27);
 INSERT INTO users (name, age) VALUES ("Kayla Payne", 27);
 INSERT INTO users (name, age) VALUES ("Jason Banning", 27);
