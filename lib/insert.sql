@@ -15,7 +15,7 @@ INSERT INTO users (name, age) VALUES ("Patrick Fischl", 34);
 INSERT INTO users (name, age) VALUES ("Stacy Franklin", 18);
 INSERT INTO users (name, age) VALUES ("Jessica Bodine", 53);
 INSERT INTO users (name, age) VALUES ("Michael Weirsma", 33);
-INSERT INTO users (name, age) VALUES ("Taylor Reed", 45);
+INSERT INTO users (name, age) VALUES ("Taylor Reid", 45);
 INSERT INTO users (name, age) VALUES ("Chris Johnson", 38);
 INSERT INTO users (name, age) VALUES ("Jim Ulrich", 84);
 INSERT INTO users (name, age) VALUES ("Alisha Bowman", 27);
