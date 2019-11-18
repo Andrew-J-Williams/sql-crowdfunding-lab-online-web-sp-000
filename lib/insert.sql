@@ -13,7 +13,7 @@ INSERT INTO users (name, age) VALUES ("Jacob Zeltman", 23);
 INSERT INTO users (name, age) VALUES ("Megan Smith", 29);
 INSERT INTO users (name, age) VALUES ("Patrick Fischl", 34);
 INSERT INTO users (name, age) VALUES ("Stacy Franklin", 18);
-INSERT INTO users (name, age) VALUES ("Jessica ", 85);
+INSERT INTO users (name, age) VALUES ("Jessica Bodine", 85);
 INSERT INTO users (name, age) VALUES ("Steve Ulrich", 49);
 INSERT INTO users (name, age) VALUES ("Amy Ulrich", 45);
 INSERT INTO users (name, age) VALUES ("Chris Johnson", 38);
